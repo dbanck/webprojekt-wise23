@@ -20,7 +20,7 @@ Source: https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire
 
 ## Hinweise an Teilnehmer
 
-Ihr lest aktuell die interpretierte Version dieses Dokuments. Schaut euch einmal parallel den [Quelltext](https://raw.githubusercontent.com/dbanck/webprojekt-wise23/main/lesson-01/hausaufgabe/example.md) an.
+Ihr lest aktuell die interpretierte Version dieses Dokuments. Schaut euch einmal parallel den [Quelltext](https://raw.githubusercontent.com/dbanck/webprojekt-wise23/main/lesson-01/hausaufgabe/example.md) an (über den Link oder oben in der GitHub Oberfläche "Code").
 
 Hier sehr ihr, dass bspw. Überschriften mit einer oder mehreren `#` gekennzeichnet werden.
 
