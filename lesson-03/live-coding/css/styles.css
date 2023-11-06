@@ -1,0 +1,21 @@
+a {
+  color: green;
+  background: lightgrey;
+  font-family: "Comic Sans MS";
+}
+
+div {
+  background: lightblue;
+}
+
+span {
+  color: blue;
+}
+
+img {
+  width: 500px;
+}
+
+p {
+  width: 600px;
+}
