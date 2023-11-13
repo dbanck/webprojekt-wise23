@@ -23,8 +23,9 @@ main {
 
 
 /* Stufenförmig */
-
-
+ul li > strong {
+  background: red;
+}
 
 
 

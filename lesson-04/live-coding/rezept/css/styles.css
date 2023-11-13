@@ -28,10 +28,43 @@ a {
   color: darkslateblue;
 }
 
+/* das gleiche wie oben */
+/* h2 {
+  color: darkslateblue:
+}
+
+h3 {
+  color: darkslateblue;
+}
+
+a {
+  color: darkslateblue;
+} */
+
 img {
   width: 300px;
 }
 
-span {
+/* span {
   color: blue;
+} */
+
+/* Klassenselektoren */
+
+.blue {
+  color: blue;
+}
+
+.white {
+  color: white;
+}
+
+.red {
+  color: red;
+}
+
+/* ID Selektor */
+
+#arbeitsanweisungen {
+  font-size: 40px;
 }
