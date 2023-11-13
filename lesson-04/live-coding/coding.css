@@ -1,6 +1,6 @@
 body {
   font-size: 18px;
-  font-family: sans-serif;  
+  font-family: sans-serif;
 }
 
 header {
@@ -82,13 +82,22 @@ ul li > strong {
 
 /* Spezifität */
 
+div {
+  background-color: aqua;
+  font-style: italic;
+}
 
+.red {
+  background-color: red;
+}
 
+#blue {
+  background-color: blue;
+}
 
-
-
-
-
+div {
+  background-color: green;
+}
 
 
 
@@ -120,4 +129,17 @@ ul li > strong {
 /* Box Modell */
 * {
   /* border: 1px solid red !important; */
+  box-sizing: border-box;
+}
+
+.boxmodell {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  /* margin: 100px 50px; */
+  padding: 50px 50px 10px 10px;
+  border: 5px dashed goldenrod;
+  width: 500px;
+  height: 100px;
 }
