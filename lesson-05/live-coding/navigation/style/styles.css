@@ -1,0 +1,39 @@
+@import url(https://fonts.bunny.net/css?family=roboto:400);
+
+header {
+  background: #55ffd6;
+}
+
+.nav-list {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+.nav-list li {
+  width: 300px;
+  height: 100px;
+
+  border-left: 1px solid white;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  align-items: center;
+}
+
+.nav-list li.last {
+  border-right: 1px solid white;
+}
+
+.nav-list li.active {
+  background: #469b87;
+}
+
+.nav-list a {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+}
