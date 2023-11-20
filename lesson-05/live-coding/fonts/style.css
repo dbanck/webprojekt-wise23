@@ -1,3 +1,5 @@
+@import url(https://fonts.bunny.net/css?family=adamina:400);
+
 * {
   box-sizing: border-box;
 }
@@ -10,6 +12,7 @@ html {
 h1,
 h2 {
   color: #6b6b6b;
+  font-family: "Arbutus", display;
 }
 
 .content {
@@ -17,6 +20,7 @@ h2 {
   width: 50%;
   display: flex;
   flex-wrap: wrap;
+  font-family: "Adamina", serif;
 }
 
 .content * {
