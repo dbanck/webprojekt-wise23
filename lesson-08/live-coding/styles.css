@@ -44,3 +44,19 @@ nav {
   align-items: center;
   height: 150px;
 }
+
+@media (max-width: 950px) {
+  ul {
+    flex-direction: column;
+  }
+
+  nav {
+    height: auto;
+  }
+}
+
+@media (max-width: 600px) {
+  main {
+    background: rgb(196, 204, 222);
+  }
+}
